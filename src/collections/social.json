@@ -2,16 +2,16 @@
 	{
         "id": 1,
 		"name": "Github",
-        "username": "rockcandy42",
+        "username": "IndieFlanny",
 		"image": "/assets/social/social-github.jpg",
-		"url": "https://github.com/rockcandy42",
+		"url": "https://github.com/IndieFlanny",
 		"isShow": true
 	},
 
 	{
         "id": 2,
 		"name": "Xiaohongshu",
-        "username": "summer",
+        "username": "IndieFlanny",
 		"image": "/assets/social/social-xiaohongshu.jpg",
 		"url": "https://www.xiaohongshu.com/user/profile/644df96200000000100297f6",
 		"isShow": true

@@ -1,11 +1,10 @@
 {
-  	"extends": "astro/tsconfigs/base",
-	"compilerOptions": {
-		"strictNullChecks": true,
-		"baseUrl": ".",
-		"paths": {
-			"@/*": ["src/*"]
-		},
-		"typeRoots": ["./node_modules/@types", "./src/types",".vscode", "dist"]
-	}
+  "extends": "astro/tsconfigs/base",
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "paths": {
+      "@/*": ["./src/*"] 
+    },
+    "typeRoots": ["./node_modules/@types", "./src/types", ".vscode", "dist"]
+  }
 }
